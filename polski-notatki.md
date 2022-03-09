@@ -1,5 +1,8 @@
+*ab equis ad asinos*
+
 Polski - 9 marca 2022
 ==
+
 ## Wprowadzenie do 20-lecia międzywojennego
 
 #### Filozofia miedzywojnia - charakterystyka
