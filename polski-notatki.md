@@ -1,4 +1,4 @@
-*ab equis ad asinos*
+*ab equis ad asinos* ~ 2022
 
 Polski - 9 marca 2022
 ==
@@ -45,4 +45,4 @@ Analiza bodźców prowadzi do wywołania konkretnych reakcji
 Polski - 10 marca 2022
 ==
 
-#### todo lekcja
+#### Nie widać końca
