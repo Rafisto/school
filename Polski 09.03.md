@@ -32,6 +32,7 @@ Wiliam James, Charles Pierce - Użyteczność staowi kryterium prawdziwości są
 
 #### Behawioryzm
 filozofia nauki o zachowaniu ludzi i zwierząt <br/>
+- Człowiek sumą doświadczeń doznanych w społeczeństwie
 - Środowisko jako czynnik kontrolujący zachowania organizmów
 - Ciąg przyczynowo-skutkowy
 - John Broadus Watson<br/>
