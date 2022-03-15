@@ -33,7 +33,7 @@ odrębny gatunek literacji. Twórczość stawiała na wykorzystanie wolności.
 4. **F**, forma była pochodną sytuacji polityczno-historycznej
 
 ##### Zadanie 7
-**a)  **
+**a)**  
 
 - Parafraza słowotwórcza: Programo-twórstwo, czyli tworzenie programów.
 - Podstawy słowotwórcze: program-(o)-twór-(stwo)<br/>
