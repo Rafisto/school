@@ -30,7 +30,9 @@ odrębny gatunek literacji. Twórczość stawiała na wykorzystanie wolności.
 a)  
 - Parafraza słowotwórcza: Programo-twórstwo, czyli tworzenie programów.
 - Podstawy słowotwórcze: program-(o)-twór-(stwo)  
+
 b)  
+
 - Podany wyraz ma upłynnić czytanie tekstu
 - Podany wyraz wykazuje erudycje i zdolności słotowtórcze autora
 ##### Zadanie 8
