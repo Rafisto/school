@@ -3,6 +3,8 @@
 The phrases written below are *inherently* bound together. <br>
 Arranged alphabetically. Each word may have more than one pair. <br>
 
+Count : 31
+
 ##### Word | Conjunction | Pair
 - Aches and pains <br>
 - Bright and early <br>
