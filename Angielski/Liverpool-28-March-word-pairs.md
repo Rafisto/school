@@ -1,5 +1,5 @@
-## Word Pairs
-####27 March 2022
+## Word Pairs  
+#### 27 March 2022
 The phrases written below are *inherently* bound together. <br>
 Arranged alphabetically. Each word may have more than one pair. <br>
 
