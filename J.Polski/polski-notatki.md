@@ -120,3 +120,16 @@ Główne gatunki w kinematografii:
 - Kino Awangardowe, będące niszą
 
 Teoria czystej formy w teatrze zakłada zerwanie z realizmem i naturalizmem i pójście w surrealizm, w celu spotęgowania uczuć metafizycznych. Twórca myśli - Stanisław Ignacy Witkiewicz (Witkacy).  
+
+### Polski 18.03
+
+#### Imiesłowy
+- Przymiotnikowe (czynny, bierny)
+- Przysłówkowe (uprzedni, współczesny)  
+
+#### Częsci zdania
+- Podmiot (gramatyczny - mianownik, logiczny - dopełniacz, zbiorowy - zbiorowość, szeregowy - Kamil i Krzysiek, towarzyszący - Kamil z Krzyśkiem, domyślny)
+- Orzecznie (czasownikowe - osobowa forma czasownika, imienne - łącznik - być stać się zostać, orzecznik - inna część zdania. E.g. zostałem sławny)
+- Przydawka (do podmiotu) - określenie rzeczownika w zdaniu.
+- Dopełnienie (do orzeczenia) - odpowiada na pytania przypadków
+- Okolicznik (do orzeczenia) - czasu, miejsca, celu, przyczyny, sposobu, stopnia, miary, przyzwolenia

@@ -47,4 +47,10 @@ Count : 40
 - Wait and see <br>
 - Wear and tear <br>
 - Where and when <br>
-
+<br>
+- Spick and span <br>
+- Head and shoulders <br>
+- Cock and bull <br>
+- High and dry <br>
+- Brick and mortar <br>
+- Bread and butter <br>

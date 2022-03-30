@@ -54,8 +54,7 @@ wykorzystanie wolności.
 
 ##### Zadanie 8
 
-*"Wojna, która do pewnego stopnia zamroziła postęp cywilizacji i kultury, przyczyniła się jednak do ich gwałtownego
-rozwoju tuż po swoim zakończeniu".*
+*"Wojna, która do pewnego stopnia zamroziła postęp cywilizacji i kultury, przyczyniła się jednak do ich gwałtownego rozwoju tuż po swoim zakończeniu".*
 
 ##### Zadanie 9
 
