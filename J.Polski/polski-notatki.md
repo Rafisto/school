@@ -121,7 +121,7 @@ Główne gatunki w kinematografii:
 
 Teoria czystej formy w teatrze zakłada zerwanie z realizmem i naturalizmem i pójście w surrealizm, w celu spotęgowania uczuć metafizycznych. Twórca myśli - Stanisław Ignacy Witkiewicz (Witkacy).  
 
-### Polski 18.03
+### Polski 18.03 - Gramatyka.
 
 #### Imiesłowy
 - Przymiotnikowe (czynny, bierny)
@@ -133,3 +133,30 @@ Teoria czystej formy w teatrze zakłada zerwanie z realizmem i naturalizmem i p�
 - Przydawka (do podmiotu) - określenie rzeczownika w zdaniu.
 - Dopełnienie (do orzeczenia) - odpowiada na pytania przypadków
 - Okolicznik (do orzeczenia) - czasu, miejsca, celu, przyczyny, sposobu, stopnia, miary, przyzwolenia
+
+### Polski 30.30 - Piszemy rozprawkę - Literatura zaangażowana.
+Motyw przedowni jutrzejszej rozprawki.<br>
+##### Motyw literatury zaangażowanej:
+- Przedstawia aktualne problemy społeczne
+- Przedstawia aktualne zjawiska i trendy
+- Literatura użytkowa
+- Literatura realistyczna
+- Codzienne życie
+- Język zrozumiały dla innych <br>
+
+##### Literatura - Jak? po co? co daje?
+Sinuoida krzyżanowskiego. <br>
+Skąd wzięła się potrzeba przekazywania wartości, dlaczego ludzie piszą książki?
+- Romantyzm: ---
+- Pozytywizm: Utylitaryzm, czyli podstawą jest szczęście ogółu. Literatura pozytywistyczna jest literaturą podejmującą sprawy aktualne w formie pracy u podstaw i pracy organicznej. (także Emancypacja kobiet i asymilacja Żydów.) Edukowanie, rozwój gospodarczy, dążenia egalitarystyczne prowadzi do zbudowania silnego społeczeństwa o wspólnej tożsamości. Uświadamianie społeczeństwa jest celem w litearaturze pozytywistycznej. Przykłady - Lalka, Zbrodnia i Kara.
+- Modernizm: Poezja dekadentów jest zaangażowana
+Przykłady - Wesele, Eviva L'Arte
+Konteksty - Dekadentyzm, rozwarstwienie społeczne, chłopomania
+- XX-lecie międyzwojenne: Pragmatyzm
+Konreksty - Przedwiośnie - Literatura zaangażowana w budowanie nowego państwa
+#### Rozprawka
+- Wstęp: odpowiedź na pytanie czym jest literatura zaangażowana. Dlaczego Utworzona jest literatura zaangażowana.
+- Rozwinięcie: (???) dwa stanowiska literatury zaangażowanej.<br>
+Stanowisko 1 - Wspieram stanowisko literatury zaangażowanej.
+Przykład z tekstu oraz Wsparcie dwoma konekstami. <br>
+Stanowisko 2 - (???) <br>
