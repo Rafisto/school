@@ -54,3 +54,7 @@ Count : 40
 - High and dry <br>
 - Brick and mortar <br>
 - Bread and butter <br>
+
+- life or death <br>
+- body and soul <br>
+- null and void <br>
