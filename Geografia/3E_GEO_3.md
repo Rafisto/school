@@ -94,8 +94,8 @@ z pracy w rolnictwie na danym obszarze.<br>
 ## 4. Przemysł zaawansowanych technologii
 
 ### Czynniki rozmieszczenia zakładów hich-tech
-- Obecność wysoko wykwalifikowanej kadry specjalistów
-- Wsytępowanie ośrodków naukowo badawczych
+- Wysoko wykwalifikowana kadra specjalistów
+- Ośrodki naukowo-badawcze
 - Konieczne środki finansowe
 - Korzyści aglomeracji
 
