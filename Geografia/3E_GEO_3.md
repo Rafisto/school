@@ -54,17 +54,17 @@ z pracy w rolnictwie na danym obszarze.<br>
 - Niska jakość produktów
 - Niska efektywność produkcji
 - Dominacja przemysłu tradycyjnego
-- Stosowanie przestarzałych technologii
+- Przestarzałe technologie
 
 ### Na czym polegały przemiany w przemyśle po 1989r.
 - Prywatyzacja, Zmiany w strukturze własnościowej, umiędzynarodownienie
-- Ograniczenie tradycyjnych działów przemysłu
-- Rozwój produkcji wyrobów wysoko przetworzonych
-- Zamykaniu przedsiębiorstw na skutek rynkowej konkurencji
-- Powstanie ogniw międzynarodowych łańcuchów dostaw
+- Ograniczenie tradycyjnych działów
+- Produkcji wyrobów wysoko przetworzonych
+- Zamykaniu na skutek konkurencji
+- Ogniwa międzynarodowych łańcuchów dostaw
 
 ### Struktury przemysłu
-- Wielkościowa  (zmniejszenie ilości dużych firm, wzrost małych i średnich)
+- Wielkościowa (zmniejszenie ilości dużych firm, wzrost małych i średnich)
 - Własnościowa (podmioty prywatne zamiast państwowych)
 
 ### Skutki przemian w przemyśle
@@ -77,8 +77,8 @@ z pracy w rolnictwie na danym obszarze.<br>
 - wzrost udziału produktów zaawansowanych technologii
 - napływ kapitału z zagranicy
 - zróżnicowanie struktury produkcji
-- poprawa stanu środowiska przyrodniczego
-- uniknięcie głębokiej zapaści gospodarczej 
+- poprawa stanu środowiska
+- uniknięcie zapaści gospodarczej 
 <br>
 
 #### Negatywne
@@ -87,13 +87,13 @@ z pracy w rolnictwie na danym obszarze.<br>
 - zmarnowanie potencjału zamkniętych zakładów
 - wykonywanie prostych technologicznie zadań w międzynarodowych łańcuchach dostaw
 - niezdolność do wprowadzenia produktów na zagraniczne rynki
-- przejęcie kontroli i zysków przez zagranicznych inwestorów
-- utrzymywanie przestarzałej energetyki węgolowej
-- pogłębiające się różnice w uprzemysłowieniu między częściami kraju
+- kontrola i zyski do zagranicznych inwestorów
+- przestarzała energetyka węgolowa
+- zwiększające się różnice w uprzemysłowieniu między częściami kraju
 
 ## 4. Przemysł zaawansowanych technologii
 
-### Czynniki rozmiesszczenia zakładów hich-tech
+### Czynniki rozmieszczenia zakładów hich-tech
 - Obecność wysoko wykwalifikowanej kadry specjalistów
 - Wsytępowanie ośrodków naukowo badawczych
 - Konieczne środki finansowe
