@@ -17,7 +17,7 @@
 - liczba pracowników rolnych (ok. 10%), struktura wiekowa<br>
 - kapitał ludzki, doświadczenie i wykształcenie<br>
 - polityka państwa oraz UE<br>
-- Czynniik historyczno-techniczne:<br>
+- Czynniki historyczno-techniczne:<br>
 - struktura agrarna - własność i wielkość gosporarstw (śr. wielkość 11ha)<br>
 - poziom kultury rolnej, mechanizacja i chemizacja<br>
 <br>
@@ -36,11 +36,10 @@ z pracy w rolnictwie na danym obszarze.<br>
 ### Głowne cechy rolnictwa ekologicznego
 - dopasowanie do cyklów biologicznych
 - odchwaszczanie mechaniczne bez pestycydów
-- większa różnorodność gatunkowa
-- chów na wolnym wybiegu
-- wykluczanie pasz przemysłowych
-- zakaz stosowania GMO
-- własne nawozy organiczne, dążenie do zamkniętego obiegu materii
+- różnorodność gatunkowa
+- wolne wybiegi
+- zakaz pasz przemysłowych i GMO
+- własne nawozy organiczne
 
 ### Przyczyny rozwoju rolnictwa ekologicznego
 - Negatywny wpływ intensywnego rolnictwa na środowisko (zanieczyszczenie gleb i wód)
