@@ -110,8 +110,8 @@ z pracy w rolnictwie na danym obszarze.<br>
 - Centra transferu technologii
 
 ### Działania dla rozwoju przemysłu high tech
-- Zwiększanie nakładów finansowych na R&D
-- kształcenie większej liczby specjalistów
+- Finanse dla R&D
+- Kształcenie większej liczby specjalistów
 - korzystne warunki współpracy biznesu z ośrodkami naukowymi
 - Wsparcie przedsiębiorstw high-tech
 - Promowanie Polski jako kraju wspierającego high-tech
