@@ -34,12 +34,12 @@ z pracy w rolnictwie na danym obszarze.<br>
 ## 2. Rolnictwo ekologiczne w Polsce
 
 ### Głowne cechy rolnictwa ekologicznego
-- dopasowanie do cyklów biologicznych
-- odchwaszczanie mechaniczne bez pestycydów
-- różnorodność gatunkowa
+- dopasowanie do cykli biologicznych
 - wolne wybiegi
-- zakaz pasz przemysłowych i GMO
+- różnorodność gatunkowa
 - własne nawozy organiczne
+- odchwaszczanie mechaniczne
+- zakaz pasz przemysłowych i GMO
 
 ### Przyczyny rozwoju rolnictwa ekologicznego
 - Negatywny wpływ intensywnego rolnictwa na środowisko (zanieczyszczenie gleb i wód)
