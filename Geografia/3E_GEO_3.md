@@ -27,9 +27,9 @@ z pracy w rolnictwie na danym obszarze.<br>
 
 ### Problemy stukturalne w polskim rolnictwie
 - przeludnienie agrarne
-- wzrastające temstarzenia się ludności wiejskiej
-- znaczne rozdrobnienie gospodarstw rolnych
-- niewystarczająca produktywność w stosunku do możliwości
+- starzenie się ludności wiejskiej
+- rozdrobnienie gospodarstw rolnych
+- niewystarczająca produktywność
 
 ## 2. Rolnictwo ekologiczne w Polsce
 
