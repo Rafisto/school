@@ -2,7 +2,6 @@ ________
 Words with time
 ________
 Any old time<br>
-Anything for a quiet life<br>
 Better luck next time<br>
 Dead on time<br>
 For the time being<br>
@@ -58,4 +57,4 @@ The not-so-distant future<br>
 Vacant parking spaces<br>
 Vast expanse<br>
 Within living memory<br>
-You can bet your life<br
+You can bet your life<br>
