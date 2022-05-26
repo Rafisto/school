@@ -133,28 +133,28 @@
 - to make it a point to do sth
 - to make no attempt to do sth
 - to make the most of sth
-— do a favor
-— do the right thing
-— make a comment
-— make a complainf
-— make a confession
-— make a contract
-— make a discovery
-— make a fea
-— make a fuss
-— make a joke
-— make a living
-— make a mistake
-— make a snack
-— make a statement
-— make a suggestion
-— make an affernpf/ effort
-— make an allusion
-— make an objection
-— make an observation
-— make breakfasf
-— make dinner
-— make one's bow (uk)
-— make progress
-— make up your mind
+- do a favor
+- do the right thing
+- make a comment
+- make a complainf
+- make a confession
+- make a contract
+- make a discovery
+- make a fea
+- make a fuss
+- make a joke
+- make a living
+- make a mistake
+- make a snack
+- make a statement
+- make a suggestion
+- make an affernpf/ effort
+- make an allusion
+- make an objection
+- make an observation
+- make breakfasf
+- make dinner
+- make one's bow (uk)
+- make progress
+- make up your mind
 - make a decision
