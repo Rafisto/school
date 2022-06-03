@@ -75,22 +75,28 @@ skutków
 "Nie zdążyłam" - Anna Kamieńska - odpowiedź na wiersz Ks. Twardowskiego
 "Na matematyka" - Jan Kochanowski - wiersz o matematyce
 
-- M.Mężyk        - "Bagnet na broń"          - Władysław Broniewski
-- J.Harewicz     - "O pierdzeniu"            - Aleksander Fredro
-- J.Michalska    - "O pierdzeniu"            - Aleksander Fredro
-- K.Kobylańska   - "Niektórzy lubią poezje"  - Wisława Szymborska
-- G.Jagielski    - "Dłoń"                    - Wisława Szymborska  
-- A.Bonar        - "Zatrzęśienie"            - Wisława Szymborska
-- J.Godek        - "Szczęście"               - Julian Tuwim
-- P.Pijanowski   - "A kiedy przyjdzie"       - Tadeusz Boy-Żeleński
-- K.Pawlaczek    - "Przesłanie p. Cogito"    - Zbigniew Herbert
-- R.Włodarczyk   - "Niewierny"               - Kazimierz Przerwa-Tetmajer
-- K.Głowacki     - "Życie"                   - Julian Tuwim
-- K.Słotta       - "Poeta"                   - Andrzej Bursa
-- M.Markowicz    - "Śpieszmy się"            - Ks. Jan Twardowski
-- M.Żyto         - "Lokomotywa"              - Julian Tuwim
-- M.Kulik        - "Alarm"                   - Antoni Słomiński
-- J.Michael      - "Ballada o mleczarzu"     - Jan Kaczmarek
-- A.Markowski    - "...A w czwartej cosinus" - Autor nieznany
-- M.Waluś        - "Do generałów"            - Julian Tuwim
-- P.Andrzejewski - "A gdyby nawet piec..."   - Miron Białoszewski
+- M.Mężyk          - "Bagnet na broń"                  - Władysław Broniewski
+- J.Harewicz       - "O pierdzeniu"                    - Aleksander Fredro
+- K.Kobylańska     - "Niektórzy lubią poezje"          - Wisława Szymborska
+- G.Jagielski      - "Dłoń"                            - Wisława Szymborska  
+- A.Bonar          - "Zatrzęśienie"                    - Wisława Szymborska
+- J.Godek          - "Szczęście"                       - Julian Tuwim
+- P.Pijanowski     - "A kiedy przyjdzie"               - Tadeusz Boy-Żeleński
+- K.Pawlaczek      - "Przesłanie p. Cogito"            - Zbigniew Herbert
+- R.Włodarczyk     - "Niewierny"                       - Kazimierz Przerwa-Tetmajer
+- K.Głowacki       - "Życie"                           - Julian Tuwim
+- K.Słotta         - "Poeta"                           - Andrzej Bursa
+- M.Markowicz      - "Śpieszmy się"                    - Ks. Jan Twardowski
+- M.Żyto           - "Lokomotywa"                      - Julian Tuwim
+- M.Kulik          - "Alarm"                           - Antoni Słomiński
+- J.Michael        - "Ballada o mleczarzu"             - Jan Kaczmarek
+- A.Markowski      - "...A w czwartej cosinus"         - Autor nieznany
+- M.Waluś          - "Do generałów"                    - Julian Tuwim
+- P.Andrzejewski   - "A gdyby nawet piec zabrali"      - Miron Białoszewski
+- I.Janiak         - "Kopniaki"                        - Andrzej Bursa
+- A.Michalska      - "Murzyn"                          - Jan Brzechwa
+- P.Głowacki       - "Śmierdziel"                      - Julian Tuwim
+- P.Dyrda          - "To wszystko trwa jak chopin"     - Ks. Jan Twardowski
+- M.Aleksandrowicz - "Nic dwa razy się nie zdarza"     - Wisława Szymborska
+- B.Kebel          - "Przesłanie p. Cogito"            - Zbigniew Herbert
+
