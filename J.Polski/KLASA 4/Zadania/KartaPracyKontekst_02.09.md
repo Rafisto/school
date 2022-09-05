@@ -39,7 +39,13 @@ Latarnik prezentuje obie postawy, na początku wydaje się odnajdywać w świeci
 
 ### Zad 6
 
+#### WERSJA Z WETEREM
+
 Podobnie problem samotności został ukazany w Cierpieniach Młodego Wertera Johanna Wolfganga von Goethego. W tym utworze ostamotnienie bohatera także staje się źródłem jego udręki. Widać to szczególnie, gdy do domu Lotty powraca Albert i doszczętnie wyrywya Wertera ze sfery jego marzeń miłosnych. Bohater odczuwa żal i rozgoryczenie oraz pod koniec nie potrafi odnaleźć swojego miejsca na świecie. Samotność tej postaci jest ściśle powiązana z obrazem romantycznej miłości fatalnej obecnej w twórczości Goethego, także w Fauście, w którym tytyłowy bohater również osiąga klęske miłosną.
+
+#### WERSJA Z LATARNIKIEM
+
+Podobnie problem został ukazany w "Latarniku" Henryka Sienkiewicza. W tym utworze osamotnienie bohatera staje się źródłem jego udręki. Widać to szczególnie wtedy, gdy do jego samotni trafia paczka z Polską literaturą, wśród nich znajduje się Pan Tadeusz, nad lekturą którego tytułowa postać spędza noc i po raz pierwszy zaniedbuje swoje obowiązki. Bohater na pierwszy rzut oka nie zdaje się przejawiać zbyt wylewnych emocji powiązanych ze swoją samotnością, jednak jak okazuje się w przywołanym fragmencie jest to jedynie fasada. Mężczyźnie towarzyszy ogromna tęsknota i smutek, prawdopodobnie nawet ból wynikający z bycia odciętym od ojczyzny, kiedy w jego ręce trafia książka latarnik wielokrotnie zanosi się płaczem. Samotność tej postaci jest ściśle powiązana z izolacją od kraju, za którego wolność mężczyzna walczył - przedstawia sytuację życiową wielu powstańców, którzy ryzykując życiem za Polskę zostali zmuszeni do opuszczenia jej na zawsze i uświadamia czytelników o tym w jak ciężkich sytuacjach się znaleźli
 
 ### Zad 7
 
