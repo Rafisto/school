@@ -49,6 +49,8 @@ Podobnie problem został ukazany w "Latarniku" Henryka Sienkiewicza. W tym utwor
 
 ### Zad 7
 
+![Obraz z kobietą](https://media.discordapp.net/attachments/622134179177562176/1016430293151928400/unknown.png)
+
 Weź pod uwagę:
 - kolorystyka, kompozycja, elementy przestrzeni, sposób przedstawienia postaci, epokę<br>
 
