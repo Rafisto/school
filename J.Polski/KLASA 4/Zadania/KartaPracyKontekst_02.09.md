@@ -21,7 +21,7 @@ Odpowiedź **C**
 ### Zad 4
 
 Hiob - Lebrosso<br>
-Zarówno Hiob jak i Lebrosso tracą rodzinę (nauczyciel traci żonę i 3 dzieci),
+Zarówno Hiob jak i Lebrosso,
 izolują się od społeczeństwa, prowadzą pustelniczy tryb życia. Oczekiwali przyjścia ich śmierci. Najważeniejsze podobieństwo to, że obaj nie odwrócili się od Boga, pomimo że nie mieli wpływu na swoje położenie życiowe.<br>
 
 Św. Aleksy - nauczyciel<br>
