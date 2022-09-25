@@ -70,5 +70,15 @@ Zbrodnie Słowaków:
 - Słowakizacja
 
 
-### Temat:
+### Temat: II WŚ Przyczyny
 
+Przyczyny bezpośrednie:
+- Remilitaryzacja Nadrenii
+- Pakt Ribbentrop-Mołotow
+- Anschluss Austrii
+- Prowokacja Gliwicka<br/>
+
+- Kłajpeda
+- Rozpad Czechosłowacji
+- Włączenie części czeskiej pod naswą Sudetenland do Niemiec
+- Casus belli - Niemcy powołują się na zamieszkiwanie tych terenów przez ludność niemiecką<br/>
