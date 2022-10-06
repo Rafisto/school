@@ -1,6 +1,6 @@
 Kraj, data status:
 - Saarland, 1935 - referendum, część III Rzeszy
-- Austria, 12.03.1938 - część III Rzeszy
+- Austria, 12.03.1938 - referendum, część III Rzeszy
 - Czechosłowacja, 09.1939, Sudetenland, Protektorat Czech i Moraw
 - Słowacja, 09.1939, Państwo marionetkowe
 - Litwa (Kłajpeda), 1939, część III Rzeszy
@@ -28,3 +28,5 @@ Kraj, data status:
 - Finlandia 30.11.1939-13.07.1940 - Biały pokój
 - Rumunia 28.06.1940-03.07.1940 - Rumuńska SSR
 - Wyzwolenie wsch. Europy - 01.12.1941 - 09.05.1945 - Żelazna kurtyna, Pakt Warszawski
+
+Hitlerjugend
