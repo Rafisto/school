@@ -20,7 +20,7 @@
 * Ukazanie intencji Stalina
 
 # Przyczny
-* Przekształcenie PKWN - 22 Sierpnia 1944  
+* Przekształcenie PKWN - 22 Lipca 1944  
 	PKWN, przekształcony później w Rząd Tymczasowy, ich manifest był deklaracją nowych komunistycznych (powstałych we wsparciu ZSRR) władz. Uznali się oni za jedyną legalną władzę, a Londyńskie okrzykneli "samozwańczymi". Rzucało to cień na szanse odzyskania pełnej niepodległości i suwerenności po II Wojnie Światowej (pokazuje to zależność Polski od ZSRR).
 * Niemcy są osłabieni wojną, powoli wycofują się z Polski
 * Zbliża się Armia Czerwona do Warszawy  
