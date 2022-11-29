@@ -21,7 +21,7 @@
 
 # Przyczny
 * Przekształcenie PKWN  
-	PKWN, przekształcony w Rząd Tymczasowy był wspierany przez państwa takie jak Jugosławia, czy Francja. Nadzór nad działalnością rady prowadził generał NKWD, a większość była obsadzona przez komunistów. Rzucało to cień na szanse odzyskania pełnej niepodległości i suwerenności po II Wojnie Światowej (pokazuje to zależność Polski od ZSRR).
+	PKWN, przekształcony później w Rząd Tymczasowy, ich manifest był deklaracją nowych komunistycznych (powstałych we wsparciu ZSRR) władz. Uznali się oni za jedyną legalną władzę, a Londyńskie okrzykneli "samozwańczymi". Rzucało to cień na szanse odzyskania pełnej niepodległości i suwerenności po II Wojnie Światowej (pokazuje to zależność Polski od ZSRR).
 * Niemcy są osłabieni wojną, powoli wycofują się z Polski
 * Zbliża się Armia Czerwona do Warszawy  
 	Włączenie Warszawy do planu "Burza", żeby przyspieszy wejście Armii Czerwonej do miasta i wyparcie wojsk III Rzeszy, miało wymóc uznanie władz miejscowych
