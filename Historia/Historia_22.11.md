@@ -20,7 +20,7 @@
 * Ukazanie intencji Stalina
 
 # Przyczny
-* Przekształcenie PKWN
+* Przekształcenie PKWN  
 	PKWN, przekształcony w Rząd Tymczasowy był wspierany przez państwa takie jak Jugosławia, czy Francja. Nadzór nad działalnością rady prowadził generał NKWD, a większość była obsadzona przez komunistów. Rzucało to cień na szanse odzyskania pełnej niepodległości i suwerenności po II Wojnie Światowej (pokazuje to zależność Polski od ZSRR).
 * Niemcy są osłabieni wojną, powoli wycofują się z Polski
 * Zbliża się Armia Czerwona do Warszawy  
