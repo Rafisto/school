@@ -49,3 +49,24 @@ Personalizm Chrześcijański (K. Wojtyła) - Samorealizacja jest możliwa tylko 
 Roland Barthes, Michel Foucault, Jean Baudrillard
 
 Dotychczasowe koncepcje były niewystarczające do poznania rzeczywistości
+
+## Kierunki w sztuce współczesnej
+### Soceralizm
+Stworzony w ZSRR, służy przede wszystkim celom propagandowym
+
+### Pop-art
+Od połowy lat 50 XX w. tworzony często z gotowch lementów, często codziennego użytku
+
+### Ekspresjonizm abstrakcyjny
+Z naciskiem na spontaniczny automatyczny, podświadomy akt twórczy
+
+### Hiperrealizm
+Rozwijający się głównie w USA, jako reakcja na rozwój sztuki abstrakcyjnej
+
+### Konceptualizm
+Lata 70 XX w., skupiający się nad treścią nie formą, każdy może tworzyć dzieło sztuki,
+
+### Happening
+Rodzaj spektaklu skupiający się na działamniu, często jednorazowa improwizacja na oczach publiczności, zachęcająca publiczność do czynnego udziału
+
+### Postmodernizm

@@ -1,0 +1,1 @@
+# Notatka syntetyzująca
