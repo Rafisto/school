@@ -28,28 +28,31 @@ Jeśli świeci słońce, pójdę na plażę
 | **Ustedes**  |         |         |         |
 
 **Hablar**  
-	* hablaria
-	* hablarias
-	* hablaria
-	* hablariamos
-	* hablariais
-	* hablarian
+
+* hablaria
+* hablarias
+* hablaria
+* hablariamos
+* hablariais
+* hablarian
 
 **Comer**  
-	* comeria
-	* comerias
-	* comeria
-	* comeriamos
-	* comeriais
-	* comerian
+
+* comeria
+* comerias
+* comeria
+* comeriamos
+* comeriais
+* comerian
 
 **Ser**  
-	* seria
-	* serias
-	* seria
-	* seriamos
-	* seriais
-	* serian
+
+* seria
+* serias
+* seria
+* seriamos
+* seriais
+* serian
 
 ## Irregulares
 ### -d-
