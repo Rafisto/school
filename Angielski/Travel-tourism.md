@@ -1,0 +1,97 @@
+# 53.1
+- Aisle seat - miejsce przy przejściu
+- Arrivals - przyloty
+- Baggage reclaim - odbiór bagażu
+- Board a plane - wsiadać na pokład samolotu
+- Boarding pass - karta pokładowa
+- Booking - rezerwacja
+- Bus - autobus
+- Business class - klasa biznesowa
+- Cabin crew - załoga samolotu
+- Carriage - wagon
+- Check-in - odprawa
+- Coach - autokar
+- Connecting flight - lot z przesiadką
+- Customs - odprawa celna
+- Departure - odlot
+- Destination - cel podróży
+- Disembark - schodzić, wysiadać
+- Duty-free zone - strefa bezcłowa
+- Excess luggage - nadbagaż
+- Fasten one's seat belt - zapiąć pasy
+- Ferry - prom
+- Get stuck in traffic - utknąć w korku ulicznym
+- Go through customs - przechodzić odprawę celną
+- Go through security - przechodzić kontrolę bezpieczeństwa
+- Hand luggage - bagaż podręczny
+- Immigration - urząd imigracyjny
+- Itinerary - plan podróży
+- Jet lag - zmęczenie po długiej podróży samolotem
+- Jet off - odlecieć, polecieć
+- Journey - podróż
+- Low-cost airline - tania linia lotnicza
+- On-board - na pokładzie (samolotu, statku)
+- Passenger - pasażer/pasażerka
+- Passport - paszport
+- Priority check-in - odprawa z pierwszeństwem wejścia na pokład
+- Queue - kolejka
+- Service station - stacja obsługi/benzynowa
+- Tourist industry - przemysł turystyczny
+- Window seat - miejsce przy oknie
+
+# 53.2
+- Additional cost - dodatkowe koszty
+- Campsite - pole kempingowe
+- Caravan - przyczepa kempingowa
+- Chalet - domek letniskowy
+- Complimentary - bezpłatny, gratisowy
+- Double room - pokój z łóżkiem dwuosobowym
+- Five-star hotel - hotel pięciogwiazdkowy
+- Full board - z pełnym wyżywieniem
+- Guest house - pensjonat
+- Half board - z częściowym wyżywieniem
+- Health resort - uzdrowisko
+- Mobile home - przyczepa mieszkalna
+- Resort - miejscowość wypoczynkowa
+- Suite - apartament
+- Twin room - pokój z dwoma łóżkami pojedynczymi
+- Vacancy - wolny pokój (np. w hotelu)
+- Youth hostel - schronisko młodzieżowe
+
+# 53.6
+- Affordable - niewygórowany (o cenie)
+- Buy souvenirs - kupować pamiątki
+- Coach tour - wycieczka autokarowa
+- Culinary tourism - podróż kulinarna
+- Domestic - krajowy
+- Ecotourism - ekoturystyka
+- Excursion - wycieczka
+- Explore - badać, podróżować w celach badawczych
+- Feel at home - czuć się jak w domu
+- High season - szczyt sezonu
+- Impact on the environment - wpływ na środowisko
+- In-depth knowledge - dogłębna wiedza
+- Landscape - krajobraz
+- Laze - leniuchować
+- Lie on the beach - leżeć na plaży
+- Lively - pełen życia
+- Local character - lokalny koloryt
+- Local community - lokalna społeczność
+- Low season - poza sezonem
+- Luxurious - luksusowy
+- Mass tourism - turystyka masowa
+- Mid season - środek sezonu
+- Off the beaten track - na odludziu, na uboczu
+- Outing - wycieczka, wypad
+- Package holiday - wczasy zorganizowane
+- Photo opportunity - sesja zdjęciowa, okazja do robienia zdjęć
+- Quirky - dziwaczny, cudaczny
+- Recharge your batteries - naładować akumulatory
+- Seaside - wybrzeże
+- Self-catering - apartament, pokój bez wyżywienia
+- Sightseeing holiday - wakacje polegające na zwiedzaniu
+- Specialty - specjalność
+- Sunbathe - opalać się
+- Tour - wycieczka objazdowa
+- Tour guide - przewodnik/pilot wycieczek
+- Voyage - rejs
