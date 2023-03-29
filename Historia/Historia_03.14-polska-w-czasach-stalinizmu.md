@@ -19,4 +19,3 @@ W polsce nie było komunizmu, ponieważ jest to system utopijny, niemożliwy do 
     - Powstanie centralnego urzędu planowania:
         - 3 letni plan '47 - '49 - całkowicie zrealizowany - entuzjazm polaków, wedle wytycznych socjalistów (specjalistów)
         - 6 letni plan '50 - '55 - komunistycze plany, żaden z nich się nie powiódł
-        
