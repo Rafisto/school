@@ -1,5 +1,7 @@
 ## "Katedra" - Jacek Dukaj
 
+## Grupa I - EINSATZGRUPPE
+
 1. Interpretacja początku książki
 - "W imię Ojca i Syna i Ducha Świętego, Amen." - Nawiązanie do liturgii, wiary chrześciańskiej, teocentryzm, przypomina
 zwyczajowy początek utworów średniowiecznych np. Legendy o św. Aleksym - ascetyzm jako poświęcenie życia doczesnego (św. Augustyn - dualizm duszy)
@@ -26,6 +28,8 @@ zwyczajowy początek utworów średniowiecznych np. Legendy o św. Aleksym - asc
 
 4. Do jakich motywów literackich nawiązują?
 - motyw postaci świętych - bogobojnych i poświęcających życie doczesne dla wiary, abalogia do Legendy o św. Aleksym
+- sztuka ars moriendi
+- pieśń rycerska - chanson de geste
 - motyw postaci męczennika
 - motyw poświęcenia
 - motyw życia wiecznego (z katedrą)
@@ -51,3 +55,21 @@ zwyczajowy początek utworów średniowiecznych np. Legendy o św. Aleksym - asc
 - katafalk z płaskorzeźbą Izmira Predu
 - droga krzyżowa Izmira Predu
 - święty Graal
+
+## Zalety i wady światopoglądu naukowego
+
+Zalety nauki:
+
+- Wzrost wiedzy: Nauka pozwala na zdobywanie wiedzy, która może być wykorzystywana w różnych dziedzinach życia, takich jak nauka, technologia, sztuka czy medycyna.
+- Rozwój umiejętności: Nauka pomaga rozwijać umiejętności krytycznego myślenia, rozwiązywania problemów i komunikacji, które są niezbędne do funkcjonowania w społeczeństwie.
+- Odkrywanie nowych idei: Nauka prowadzi do odkrywania nowych koncepcji, teorii i perspektyw, które mogą prowadzić do postępu w różnych dziedzinach.
+- Zwiększenie konkurencyjności: Osoby z wyższym poziomem wykształcenia mają większe szanse na zdobycie lepszych miejsc pracy i awansu zawodowego.
+- Zaspokajanie ciekawości: Nauka zaspokaja ludzką ciekawość, pozwalając na zrozumienie otaczającego świata i naszego miejsca w nim.
+
+Wady nauki:
+
+- Koszt: Uzyskanie wykształcenia może być drogie, zwłaszcza dla tych, którzy nie mają dostępu do stypendiów lub pomocy finansowej.
+- Stres i wypalenie: Intensywna nauka może prowadzić do stresu, wypalenia zawodowego i problemów zdrowotnych, zwłaszcza w przypadku studentów dążących do osiągnięcia najwyższych wyników.
+- Nierówności: Nierówności w dostępie do edukacji i jakości nauczania mogą prowadzić do dalszego pogłębiania społecznych podziałów i marginalizacji.
+- Skrajne przypadki: W niektórych przypadkach nadmierna nauka może doprowadzić do izolacji społecznej, gdy osoba zaniedbuje inne aspekty swojego życia na rzecz nauki.
+- Niewłaściwe wykorzystanie wiedzy: Wiedza nabyta w procesie nauki może być wykorzystana w negatywny sposób, np. w przypadku broni biologicznych czy cyberataków.
