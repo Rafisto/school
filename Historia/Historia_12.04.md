@@ -17,6 +17,7 @@
 
 Strajki wybuchają na początku na wybrzeżu - Stoczni Gdańskiej im. Lenina, wkrótce rozprzestrzeniają się na cały kraj.  
 Np. Dolnośląskim ośrodkiem protestów staje się Wrocławska Zajezdnia
+
 Aby przerwać strajki, przez ich początkowe fazy, władza komunistyczna ucieka się nie tylko do przemocy fizycznej. Jednymi ze sposobów zwalczania strajków są:
 - Rozmowy z KS poszczególnych zakładów, tak by doprowadzić do ich kapitulacji
 - Tworzenie konkurencyjnych MKSów
